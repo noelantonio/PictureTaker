@@ -50,6 +50,6 @@
 
 int main(int argc, char *argv[])
 {
-    int x,y;
+    int x,y,z;
     return NSApplicationMain(argc,  (const char **) argv);
 }
